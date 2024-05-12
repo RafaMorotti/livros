@@ -1,0 +1,26 @@
+/* formatação página index */
+
+
+.menu-table {
+
+    border-collapse: collapse;
+    width: 300px; /* largura da tabela */
+}
+
+.menu-button {
+    border: 1px solid black;
+    display: block;
+    width: 100%;
+    margin: 3px;
+    padding: 10px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.menu-button:hover {
+    background-color: #95a0ac;
+}

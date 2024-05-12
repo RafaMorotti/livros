@@ -1,0 +1,21 @@
+/* formatação pagina mensageiro */
+
+h1
+    {
+        font-size: 34px;
+        font-weight: bold;
+        color:rgb(26, 24, 19); 
+    }
+
+body
+    {
+        font size: 18px;
+        color: black;
+    }
+ 
+h2
+    {
+        font-size: 22px;
+        font-style: italic;
+        color: rgb(54, 54, 52);
+    }
